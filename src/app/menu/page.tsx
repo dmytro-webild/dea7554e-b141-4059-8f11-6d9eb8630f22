@@ -84,7 +84,7 @@ export default function MenuPage() {
               price: "₹850",
               rating: 5,
               reviewCount: "142",
-              imageSrc: "http://img.b2bpic.net/free-photo/festive-dessert-red-brown-velvet-cake-with-white-candy-snowflakes_114579-1398.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/festive-dessert-red-brown-velvet-cake-with-white-candy-snowflakes_114579-1398.jpg?_wi=2",
               imageAlt: "Chocolate Truffle Cake",
             },
             {
@@ -94,7 +94,7 @@ export default function MenuPage() {
               price: "₹920",
               rating: 5,
               reviewCount: "128",
-              imageSrc: "http://img.b2bpic.net/free-photo/swiss-roll-cake-with-red-jelly-white-cream-served-with-strawberries_114579-14194.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/swiss-roll-cake-with-red-jelly-white-cream-served-with-strawberries_114579-14194.jpg?_wi=2",
               imageAlt: "Red Velvet Cake",
             },
             {
@@ -104,7 +104,7 @@ export default function MenuPage() {
               price: "₹1050",
               rating: 5,
               reviewCount: "156",
-              imageSrc: "http://img.b2bpic.net/free-photo/fruity-cake-slice-high-angle_23-2148536825.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/fruity-cake-slice-high-angle_23-2148536825.jpg?_wi=2",
               imageAlt: "Black Forest Cake",
             },
             {
@@ -114,7 +114,7 @@ export default function MenuPage() {
               price: "₹780",
               rating: 5,
               reviewCount: "98",
-              imageSrc: "http://img.b2bpic.net/free-photo/wooden-board-delicious-sponge-cake-marble-background_114579-54470.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/wooden-board-delicious-sponge-cake-marble-background_114579-54470.jpg?_wi=2",
               imageAlt: "Butterscotch Cake",
             },
             {
@@ -124,7 +124,7 @@ export default function MenuPage() {
               price: "₹720",
               rating: 5,
               reviewCount: "87",
-              imageSrc: "http://img.b2bpic.net/free-photo/wooden-board-delicious-sponge-cake-marble-background_114579-54470.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/wooden-board-delicious-sponge-cake-marble-background_114579-54470.jpg?_wi=3",
               imageAlt: "Vanilla Dream Cake",
             },
             {
@@ -134,7 +134,7 @@ export default function MenuPage() {
               price: "₹890",
               rating: 5,
               reviewCount: "112",
-              imageSrc: "http://img.b2bpic.net/free-photo/swiss-roll-cake-with-red-jelly-white-cream-served-with-strawberries_114579-14194.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/swiss-roll-cake-with-red-jelly-white-cream-served-with-strawberries_114579-14194.jpg?_wi=3",
               imageAlt: "Strawberry Bliss Cake",
             },
           ]}
@@ -156,19 +156,19 @@ export default function MenuPage() {
             {
               title: "Flavor Selection",
               description: "Choose from vanilla, chocolate, red velvet, black forest, strawberry, and seasonal specials.",
-              imageSrc: "http://img.b2bpic.net/free-photo/festive-dessert-red-brown-velvet-cake-with-white-candy-snowflakes_114579-1398.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/festive-dessert-red-brown-velvet-cake-with-white-candy-snowflakes_114579-1398.jpg?_wi=3",
               imageAlt: "Flavor options",
             },
             {
               title: "Size Variations",
               description: "Available in 2-inch (serves 2), 6-inch (serves 6), 8-inch (serves 12), and 10-inch (serves 20) sizes.",
-              imageSrc: "http://img.b2bpic.net/free-photo/fruity-cake-slice-high-angle_23-2148536825.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/fruity-cake-slice-high-angle_23-2148536825.jpg?_wi=3",
               imageAlt: "Size options",
             },
             {
               title: "Special Requests",
               description: "Gluten-free, vegan, sugar-free, and dairy-free options available. Custom designs and decorations welcome.",
-              imageSrc: "http://img.b2bpic.net/free-photo/female-baker-placing-blue-cupcake-case-stainless-steel-tray_23-2148028090.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/female-baker-placing-blue-cupcake-case-stainless-steel-tray_23-2148028090.jpg?_wi=3",
               imageAlt: "Special requests",
             },
           ]}

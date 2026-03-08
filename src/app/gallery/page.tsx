@@ -58,25 +58,25 @@ export default function GalleryPage() {
             {
               title: "Wedding Cakes",
               description: "Elegant tiered designs for your special day.",
-              imageSrc: "http://img.b2bpic.net/free-photo/happy-bride-groom-cut-wedding-cake_8353-9297.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/happy-bride-groom-cut-wedding-cake_8353-9297.jpg?_wi=2",
               imageAlt: "Wedding cake display",
             },
             {
               title: "Birthday Cakes",
               description: "Colorful and festive designs for all ages.",
-              imageSrc: "http://img.b2bpic.net/free-photo/birthday-cake-with-balloons_23-2148001932.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/birthday-cake-with-balloons_23-2148001932.jpg?_wi=2",
               imageAlt: "Birthday cake collection",
             },
             {
               title: "Cupcakes",
               description: "Individually crafted with premium toppings.",
-              imageSrc: "http://img.b2bpic.net/free-photo/top-view-delicious-rainbow-cupcake-glaze-still-life_23-2150154576.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/top-view-delicious-rainbow-cupcake-glaze-still-life_23-2150154576.jpg?_wi=2",
               imageAlt: "Cupcake assortment",
             },
             {
               title: "Anniversary Cakes",
               description: "Romantic designs to celebrate your milestone.",
-              imageSrc: "http://img.b2bpic.net/free-photo/beautiful-couple-sitting-table-decorated-with-candles-rose-petals-spending-evening-together_141793-66726.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/beautiful-couple-sitting-table-decorated-with-candles-rose-petals-spending-evening-together_141793-66726.jpg?_wi=2",
               imageAlt: "Anniversary cake design",
             },
           ]}
