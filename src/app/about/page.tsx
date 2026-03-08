@@ -57,13 +57,13 @@ export default function AboutPage() {
           gridVariant="four-items-2x2-equal-grid"
           features={[
             {
-              title: "Fresh Ingredients",              description: "Premium quality ingredients sourced fresh daily for optimal taste and texture.",              imageSrc: "http://img.b2bpic.net/free-photo/top-view-fresh-walnuts-with-eggs-flour-jelly-white-background-color-cake-biscuit-photo-pie-bun-dough-hotcake_140725-158384.jpg",              imageAlt: "Fresh baking ingredients"},
+              title: "Fresh Ingredients",              description: "Premium quality ingredients sourced fresh daily for optimal taste and texture.",              imageSrc: "http://img.b2bpic.net/free-photo/top-view-fresh-walnuts-with-eggs-flour-jelly-white-background-color-cake-biscuit-photo-pie-bun-dough-hotcake_140725-158384.jpg?_wi=1",              imageAlt: "Fresh baking ingredients"},
             {
-              title: "Custom Designs",              description: "Personalized cake designs tailored to your vision and celebration theme.",              imageSrc: "http://img.b2bpic.net/free-photo/female-baker-placing-blue-cupcake-case-stainless-steel-tray_23-2148028090.jpg",              imageAlt: "Custom cake design process"},
+              title: "Custom Designs",              description: "Personalized cake designs tailored to your vision and celebration theme.",              imageSrc: "http://img.b2bpic.net/free-photo/female-baker-placing-blue-cupcake-case-stainless-steel-tray_23-2148028090.jpg?_wi=1",              imageAlt: "Custom cake design process"},
             {
-              title: "Same Day Orders",              description: "Available for select cakes with advance notice. Same-day delivery in Moshi & Pune.",              imageSrc: "http://img.b2bpic.net/free-photo/top-view-fresh-walnuts-with-eggs-flour-jelly-white-background-color-cake-biscuit-photo-pie-bun-dough-hotcake_140725-158384.jpg",              imageAlt: "Fast delivery service"},
+              title: "Same Day Orders",              description: "Available for select cakes with advance notice. Same-day delivery in Moshi & Pune.",              imageSrc: "http://img.b2bpic.net/free-photo/top-view-fresh-walnuts-with-eggs-flour-jelly-white-background-color-cake-biscuit-photo-pie-bun-dough-hotcake_140725-158384.jpg?_wi=2",              imageAlt: "Fast delivery service"},
             {
-              title: "Premium Quality",              description: "Handcrafted with precision and care. Every cake meets our high standards.",              imageSrc: "http://img.b2bpic.net/free-photo/female-baker-placing-blue-cupcake-case-stainless-steel-tray_23-2148028090.jpg",              imageAlt: "Quality assurance"},
+              title: "Premium Quality",              description: "Handcrafted with precision and care. Every cake meets our high standards.",              imageSrc: "http://img.b2bpic.net/free-photo/female-baker-placing-blue-cupcake-case-stainless-steel-tray_23-2148028090.jpg?_wi=2",              imageAlt: "Quality assurance"},
           ]}
         />
       </div>
